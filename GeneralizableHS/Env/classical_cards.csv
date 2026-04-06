@@ -1,0 +1,484 @@
+,name,text
+0,Goldshire Footman,Taunt.
+1,Holy Nova,Deal two spell damage to all enemies. Restore two health to all friendly characters.
+2,Mind Control,Take control of an enemy minion.
+3,Holy Smite,Deal two sepll damage.
+4,Mind Vision,Put a copy of a random card in your opponent's hand into your hand.
+5,Power Word: Shield,Give a minion plus two health. Draw a card.
+6,Polymorph,Transform a minion into a Sheep with one attack and one health.
+7,Arcane Intellect,Draw two cards.
+8,Frostbolt,Deal three spell damage to a character and freeze it.
+9,Arcane Explosion,Deal one spell damage to all enemy minions.
+10,Frost Nova,Freeze all enemy minions.
+11,Mirror Image,"“Summon two minions with zero attack, two health and taunt.”"
+12,Fireball,Deal six spell damage.
+13,Flamestrike,Deal four spell damage to all enemy minions.
+14,Water Elemental,Freeze any character damaged by this minion.
+15,Frost Shock,Deal one spell damage to an enemy character and freeze it.
+16,Windfury,Give a minion windfury.
+17,Ancestral Healing,Restore a minion to full health and give it taunt.
+18,Fire Elemental,Battlecry: Deal three damage.
+19,Rockbiter Weapon,Give a friendly character plus three attack this turn.
+20,Bloodlust,Give your minions plus three attack this turn.
+21,Shadow Bolt,Deal four spell damage to a minion.
+22,Drain Life,Deal two spell damage. Restore two Health to your hero.
+23,Hellfire,Deal three spell damage to all characters.
+24,Corruption,"Choose an enemy minion. At the start of your turn, destroy it."
+25,Dread Infernal,Battlecry: Deal one damage to all other characters.
+26,Voidwalker,Taunt.
+27,Backstab,Deal two spell damage to an undamaged minion.
+28,Deadly Poison,Give your weapon plus two attack.
+29,Sinister Strike,Deal three spell damage to the enemy hero.
+30,Assassinate,Destroy an enemy minion.
+31,Sprint,Draw four cards.
+32,Assassin's Blade,
+33,Hunter's Mark,Change a minion's Health to one.
+34,Blessing of Might,Give a minion plus three attack.
+35,Guardian of Kings,Battlecry: Restore six Health to your hero.
+36,Holy Light,Restore six health.
+37,Light's Justice,
+38,Blessing of Kings,Give a minion plus four attack and plus four health.
+39,Consecration,Deal two spell damage to all enemies.
+40,Hammer of Wrath,Deal three spell damage. Draw a card.
+41,Truesilver Champion,"Whenever your hero attacks, restore two health to it."
+42,Charge,Give a friendly minion charge. It can't attack heroes this turn.
+43,Heroic Strike,Give your hero plus four attack this turn.
+44,Fiery War Axe,
+45,Execute,Destroy a damaged enemy minion.
+46,Arcanite Reaper,
+47,Cleave,Deal two spell damage to two random enemy minions.
+48,Magma Rager,
+49,Oasis Snapjaw,
+50,River Crocolisk,
+51,Frostwolf Grunt,Taunt.
+52,Raid Leader,Your other minions have plus one attack.
+53,Wolfrider,Charge.
+54,Ironfur Grizzly,Taunt.
+55,Silverback Patriarch,Taunt.
+56,Stormwind Knight,Charge.
+57,Ironforge Rifleman,Battlecry: Deal one damage.
+58,Kobold Geomancer,Spell Damage plus one.
+59,Gnomish Inventor,Battlecry: Draw a card.
+60,Stormpike Commando,Battlecry: Deal two damage.
+61,Archmage,Spell damage plus one
+62,Lord of the Arena,Taunt.
+63,Murloc Raider,
+64,Stonetusk Boar,Charge.
+65,Bloodfen Raptor,
+66,Bluegill Warrior,Charge.
+67,Sen'jin Shieldmasta,Taunt.
+68,Chillwind Yeti,
+69,War Golem,
+70,Booty Bay Bodyguard,Taunt
+71,Elven Archer,Battlecry: Deal one damage.
+72,Razorfen Hunter,Battlecry: Summon a Boar with one attack and one health.
+73,Ogre Magi,Spell Damage plus one.
+74,Boulderfist Ogre,
+75,Core Hound,
+76,Reckless Rocketeer,Charge
+77,Stormwind Champion,Your other minions have plus one attack and one health.
+78,Frostwolf Warlord,Battlecry: Gain plus one attack and plus one health for each other friendly minion on the battlefield.
+79,Shadow Word: Pain,Destroy a minion with three or less attack.
+80,Northshire Cleric,"Whenever a minion is healed, draw a card."
+81,Divine Spirit,Double a minion's health.
+82,Starving Buzzard,"Whenever you summon a beast, draw a card."
+83,Darkscale Healer,Battlecry: Restore two health to all friendly characters.
+84,Houndmaster,"Battlecry: Give a friendly Beast plus two attack, plus two health and taunt."
+85,Timber Wolf,Your other beasts have plus one attack.
+86,Tundra Rhino,Your beasts have charge.
+87,Multi-Shot,Deal three spell damage to two random enemy minions.
+88,Arcane Shot,Deal two spell damage.
+89,Voodoo Doctor,Battlecry: Restore two health.
+90,Novice Engineer,Battlecry: Draw a card.
+91,Shattered Sun Cleric,Battlecry: Give a friendly minion plus one attack and plus one health.
+92,Dragonling Mechanic,Battlecry: Summon a Mechanical Dragonling with two attack and one health.
+93,Acidic Swamp Ooze,Battlecry: Destroy your opponent's weapon.
+94,Warsong Commander,Your Charge minions have plus one attack.
+95,Fan of Knives,Deal one spell damage to all enemy minions. Draw a card.
+96,Radiance,Restore five health to your hero.
+97,Totemic Might,Give your totems plus two Health.
+98,Hex,"Transform a minion into a frog with zero attack, one health and taunt."
+99,Arcane Missiles,Deal three spell damage randomly split among all enemies.
+100,Shiv,Deal one spell damage. Draw a card.
+101,Mortal Coil,"Deal one spell damage to a minion. If that kills it, draw a card."
+102,Felstalker,Battlecry: Discard a random card.
+103,Soulfire,Deal four spell damage. Discard a random card.
+104,Humility,Change a minion's attack to one.
+105,Hand of Protection,Give a minion Divine Shield.
+106,Gurubashi Berserker,"Whenever this minion takes damage, gain plus three attack."
+107,Whirlwind,Deal one spell damage to all minions.
+108,Murloc Tidehunter,Battlecry: Summon a Murloc Scout with one attack and one health.
+109,Grimscale Oracle,Your other murlocs have plus one attack.
+110,Kill Command,"Deal three spell damage. If you control a beast, deal five spell damage instead. "
+111,Flametongue Totem,Adjacent minions have  plus two attack.
+112,Sap,Return an enemy minion to your opponent's hand.
+113,Dalaran Mage,Spell damage plus one.
+114,Windspeaker,Battlecry: Give a friendly minion Windfury.
+115,Nightblade,Battlecry: Deal three damage to the enemy hero.
+116,Shield Block,Gain five Armor. Draw a card.
+117,Shadow Word: Death,Destroy a minion with five or more Attack.
+118,Garrosh Hellscream,
+119,Thrall,
+120,Valeera Sanguinar,
+121,Uther Lightbringer,
+122,Rexxar,
+123,Gul'dan,
+124,Jaina Proudmoore,
+125,Anduin Wrynn,
+126,Sacrificial Pact,Destroy a Demon. Restore five Health to your hero.
+127,Kor'kron Elite,Charge.
+128,Animal Companion,Summon a random Beast Companion.
+129,Fen Creeper,Taunt
+130,Inner Fire,Change a minion's Attack to be equal to its Health.
+131,Blizzard,Deal two spell damage to all enemy minions and Freeze them. 
+132,Ancestral Spirit,"Give a minion ""Deathrattle: Resummon this minion."""
+133,Far Sight,Draw a card. That card costs three less.
+134,Blood Imp,"Stealth. At the end of your  turn, give another random friendly minion plus one Health."
+135,Cold Blood,Give a minion plus two Attack. Combo: plus four Attack instead.
+136,Rampage,Give a damaged minion plus three attack and plus three health.
+137,Earthen Ring Farseer,Battlecry: Restore three Health.
+138,Southsea Deckhand,Has Charge while you have a weapon equipped.
+139,Silver Hand Knight,Battlecry: Summon a Squire with two attack and two health.
+140,Ravenholdt Assassin,Stealth
+141,Young Dragonhawk,Windfury
+142,Injured Blademaster,Battlecry: Deal four damage to himself.
+143,Abusive Sergeant,Battlecry: Give a minion plus two Attack this turn.
+144,Ironbeak Owl,Battlecry: Silence a minion.
+145,Spiteful Smith,Your weapon has plus two Attack while this is damaged.
+146,Venture Co. Mercenary,Your minions cost three more.
+147,Wisp,
+148,Blade Flurry,Destroy your weapon and deal its damage to all enemy minions. 
+149,Gladiator's Longbow,Your hero is Immune while attacking.
+150,Lightwarden,"Whenever a character is healed, gain plus two Attack."
+151,The Black Knight,Battlecry: Destroy an enemy minion with Taunt.
+152,Young Priestess,"At the end of your turn, give another random friendly minion plus one Health."
+153,Big Game Hunter,Battlecry: Destroy a minion with seven or more Attack.
+154,Alarm-o-Bot,"At the start of your turn, swap this minion with a random one in your hand."
+155,Acolyte of Pain,"Whenever this minion takes damage, draw a card."
+156,Argent Squire,Divine Shield
+157,Angry Chicken,Has plus five Attack while damaged.
+158,Worgen Infiltrator,Stealth
+159,Bloodmage Thalnos,Spell Damage plus one. Deathrattle: Draw a card.
+160,King Mukla,Battlecry: Give your opponent two Bananas.
+161,Jungle Panther,Stealth
+162,Scarlet Crusader,Divine Shield
+163,Thrallmar Farseer,Windfury
+164,Silvermoon Guardian,Divine Shield
+165,Stranglethorn Tiger,Stealth
+166,Leper Gnome,Deathrattle: Deal two damage to the enemy hero.
+167,Sunwalker,Taunt and Divine Shield
+168,Windfury Harpy,Windfury
+169,Twilight Drake,Battlecry: Gain  plus one Health for each card in your hand.
+170,Questing Adventurer,"Whenever you play a card, gain  plus one attach and plus one health."
+171,Level Up!,"Give your Silver Hand Recruits plus two attack, plus two health and Taunt."
+172,Ancient Watcher,Can't attack.
+173,Dark Iron Dwarf,Battlecry: Give a minion plus two Attack this turn.
+174,Spellbreaker,Battlecry: Silence a minion.
+175,Youthful Brewmaster,Battlecry: Return a friendly minion from the battlefield to your hand.
+176,Mana Addict,"Whenever you cast a spell, gain plus two Attack this turn."
+177,Ancient Brewmaster,Battlecry: Return a friendly minion from the battlefield to your hand.
+178,Sunfury Protector,Battlecry: Give adjacent minions Taunt.
+179,Crazed Alchemist,Battlecry: Swap the Attack and Health of a minion.
+180,Argent Commander,Charge and Divine Shield
+181,Pint-Sized Summoner,The first minion you play each turn costs one less.
+182,Secretkeeper,"Whenever a Secret is played, gain plus one attack and plus one health."
+183,Mad Bomber,Battlecry: Deal three damage randomly split between all other characters.
+184,Tinkmaster Overspark,Battlecry: Transform another random minion into a Devilsaur with five attack and five health or a Squirrel with one attack and one health.
+185,Mind Control Tech,"Battlecry: If your opponent has four or more minions, take control of one at random."
+186,Arcane Golem,Battlecry: Give your opponent a Mana Crystal.
+187,Cabal Shadow Priest,Battlecry: Take control of an enemy minion that has two or less Attack.
+188,Defender of Argus,"Battlecry: Give adjacent minions  plus one attack, plus one health and Taunt."
+189,Gadgetzan Auctioneer,"Whenever you cast a spell, draw a card."
+190,Loot Hoarder,Deathrattle: Draw a card.
+191,Abomination,Taunt. Deathrattle: Deal two damage to all characters.
+192,Lorewalker Cho,"Whenever a player casts a spell, put a copy into the other player’s hand."
+193,Demolisher,"At the start of your turn, deal two damage to a random enemy."
+194,Coldlight Seer,Battlecry: Give your other Murlocs plus two Health.
+195,Mountain Giant,Costs one less for each other card in your hand.
+196,Cairne Bloodhoof,Deathrattle: Summon Baine Bloodhoof with four attack and five health.
+197,Leeroy Jenkins,Charge. Battlecry: Summon two Whelps with one attack and one health for your opponent.
+198,Eviscerate,Deal two spell damage. Combo: Deal four spell damage instead. 
+199,Betrayal,Force an enemy minion to deal its damage to the minions next to it.
+200,Noble Sacrifice,"Secret: When an enemy attacks, summon a Defender with two attack and one health as the new target."
+201,Defias Ringleader,Combo: Summon a Defias Bandit with two attack and one health.
+202,Eye for an Eye,"Secret: When your hero takes damage, deal that much damage to the enemy hero."
+203,Perdition's Blade,Battlecry: Deal one damage. Combo: Deal two instead.
+204,SI:7 Agent,Combo: Deal two damage.
+205,Redemption,"Secret: When a friendly minion dies, return it to life with one Health."
+206,Headcrack,Deal two spell damage to the enemy hero. Combo: Return this to your hand next turn. 
+207,Shadowstep,Return a friendly minion to your hand. It costs two less.
+208,Preparation,The next spell you cast this turn costs two less.
+209,Dire Wolf Alpha,Adjacent minions have plus one Attack.
+210,Emperor Cobra,Poisonous
+211,Icicle,"Deal two spell damage to a minion. If it's Frozen, draw a card. "
+212,Righteousness,Give your minions Divine Shield.
+213,Siegebreaker,Taunt. Your other Demons have plus one Attack.
+214,SI:7 Infiltrator,Battlecry: Destroy a random enemy Secret.
+215,Arcane Devourer,"Whenever you cast a spell, gain plus two attack and plus two health."
+216,Lightning Bolt,Deal three spell damage. Overload: one
+217,Lava Burst,Deal five spell damage. Overload: two
+218,Dust Devil,Windfury. Overload: two
+219,Earth Shock,"Silence a minion, then deal  spell one damage to it. "
+220,Stormforged Axe,Overload: one
+221,Feral Spirit,"Summon two Spirit Wolves with two attack, two health and Taunt. Overload: two"
+222,Baron Geddon,"At the end of your turn, deal two damage to all other characters."
+223,Earth Elemental,Taunt. Overload: three
+224,Forked Lightning,Deal two spell damage to two random enemy minions. Overload: two
+225,Unbound Elemental,"Whenever you play a card with Overload, gain plus one attack and plus one health."
+226,Lightning Storm,Deal two or three spell damage to all enemy minions. Overload: two
+227,Ethereal Arcanist,"If you control a Secret at the end of your turn, gain plus two attack and plus two health."
+228,Cone of Cold,"Freeze a minion and the minions next to it, and deal  spell one damage to them. "
+229,Pyroblast,Deal ten spell damage. 
+230,Frost Elemental,Battlecry: Freeze a character.
+231,Counterspell,"Secret: When your opponent casts a spell, Counter it."
+232,Ice Barrier,"Secret: When your hero is attacked, gain eight Armor."
+233,Mirror Entity,"Secret: After your opponent plays a minion, summon a copy of it."
+234,Felguard,Taunt. Battlecry: Destroy one of your Mana Crystals.
+235,Shadowflame,Destroy a friendly minion and deal its Attack damage to all enemy minions. 
+236,Void Terror,Battlecry: Destroy adjacent minions and gain their Attack and Health.
+237,Siphon Soul,Destroy a minion. Restore three Health to your hero.
+238,Twisting Nether,Destroy all minions.
+239,Pit Lord,Battlecry: Deal five damage to your hero.
+240,Summoning Portal,"Your minions cost two less, but not less than one."
+241,Sense Demons,Draw two Demons from your deck.
+242,Flame Imp,Battlecry: Deal three damage to your hero.
+243,Lord Jaraxxus,Battlecry: Destroy your hero and replace it with Lord Jaraxxus.
+244,Silence,Silence a minion.
+245,Shadow Madness,Gain control of an enemy minion with three or less Attack until end of turn.
+246,Lightspawn,This minion's Attack is always equal to its Health.
+247,Thoughtsteal,Copy two cards in your opponent's deck and add them to your hand.
+248,Lightwell,"At the start of your turn, restore three Health to a damaged friendly character."
+249,Mindgames,Put a copy of a random minion from your opponent's deck into the battlefield.
+250,Prophet Velen,Double the damage and healing of your spells and Hero Power.
+251,Lay on Hands,Restore eight Health. Draw three cards.
+252,Blessed Champion,Double a minion's Attack.
+253,Argent Protector,Battlecry: Give a friendly minion Divine Shield.
+254,Blessing of Wisdom,"Choose a minion. Whenever it attacks, draw a card."
+255,Holy Wrath,Draw a card and deal damage equal to its Cost. 
+256,Sword of Justice,"After you summon a minion, give it plus one attack and plus one health and this loses one Durability."
+257,Repentance,"Secret: After your opponent plays a minion, reduce its Health to one."
+258,Aldor Peacekeeper,Battlecry: Change an enemy minion's Attack to one.
+259,Tirion Fordring,"Divine Shield, Taunt, and Deathrattle: Equip an Ashbringer with five attack and three health."
+260,Avenging Wrath,Deal eight spell damage randomly split among all enemies. 
+261,Tauren Warrior,Taunt. Has plus three Attack while damaged.
+262,Slam,"Deal two spell damage to a minion. If it survives, draw a card. "
+263,Battle Rage,Draw a card for each damaged friendly character.
+264,Amani Berserker,Has plus three Attack while damaged.
+265,Mogu'shan Warden,Taunt
+266,Arathi Weaponsmith,Battlecry: Equip a weapon with two attack and two health.
+267,Armorsmith,"Whenever a friendly minion takes damage, gain one Armor."
+268,Shieldbearer,Taunt
+269,Brawl,Destroy all minions except a random one.
+270,Mortal Strike,"Deal four spell damage. If you have twelve or less Health, deal six spell damage instead. "
+271,Upgrade!,"If you have a weapon, give it  plus one attack and plus one health. Otherwise equip a weapon with one attack and one health."
+272,Shield Slam,Deal one damage to a minion for each Armor you have. 
+273,Gorehowl,Attacking a minion costs one Attack instead of one health.
+274,Raging Worgen,Has plus one Attack and Windfury while damaged.
+275,Grommash Hellscream,Charge. Has plus six Attack while damaged.
+276,Murloc Warleader,Your other Murlocs have plus two Attack.
+277,Murloc Tidecaller,"Whenever you summon a Murloc, gain plus one Attack."
+278,Scavenging Hyena,"Whenever a friendly Beast dies, gain plus two attack and plus one health."
+279,Misdirection,"Secret: When an enemy attacks your hero, instead it attacks another random character."
+280,Savannah Highmane,Deathrattle: Summon two Hyenas with two attack and two health.
+281,Eaglehorn Bow,"Whenever a friendly Secret is revealed, gain plus one health."
+282,Explosive Shot,Deal five spell damage to a minion and two spell damage to adjacent ones. 
+283,Unleash the Hounds,"For each enemy minion, summon a Hound with one attack, one health, and Charge."
+284,King Krush,Charge
+285,Flare,All minions lose Stealth. Destroy all enemy Secrets. Draw a card.
+286,Bestial Wrath,Give a friendly Beast plus two Attack and Immune this turn.
+287,Snake Trap,"Secret: When one of your minions is attacked, summon three Snakes with one attack and one health."
+288,Harvest Golem,Deathrattle: Summon a Damaged Golem with two attack and one health.
+289,Nat Pagle,"At the start of your turn, you may draw an extra card."
+290,Harrison Jones,Battlecry: Destroy your opponent's weapon and draw cards equal to its health.
+291,Archmage Antonidas,"Whenever you cast a spell, add a spell with six damage to your hand."
+292,Nozdormu,Players only have fifteen seconds to take their turns.
+293,Alexstrasza,Battlecry: Set a hero's remaining Health to fifteen.
+294,Onyxia,Battlecry: Summon Whelps with one attack and one health until your side of the battlefield is full.
+295,Malygos,Spell Damage plus five
+296,Faceless Manipulator,Battlecry: Choose a minion and become a copy of it.
+297,Doomhammer,"Windfury, Overload: two"
+298,Ysera,"At the end of your turn, add a Dream Card to your hand."
+299,Mana Tide Totem,"At the end of your turn, draw a card."
+300,The Beast,Deathrattle: Summon a Finkle Einhorn with three attack and three health for your opponent.
+301,Priestess of Elune,Battlecry: Restore four Health to your hero.
+302,Ancient Mage,Battlecry: Give adjacent minions Spell Damage plus one.
+303,Sea Giant,Costs one less for each other minion on the battlefield.
+304,Blood Knight,Battlecry: All minions lose Divine Shield. Gain  plus three attack and plus three health for each Shield lost.
+305,Auchenai Soulpriest,Your cards and powers that restore Health now deal damage instead.
+306,Vaporize,"Secret: When a minion attacks your hero, destroy it."
+307,Cult Master,"After a friendly minion dies, draw a card."
+308,Demonfire,"Deal two spell damage to a minion. If it’s a friendly Demon, give it plus two attack and plus two health instead. "
+309,Imp Master,"At the end of your turn, deal one damage to this minion and summon a Imp with one attack and one health."
+310,Cruel Taskmaster,Battlecry: Deal one damage to a minion and give it  plus two Attack.
+311,Frothing Berserker,"Whenever a minion takes damage, gain plus one Attack."
+312,Inner Rage,Deal one spell damage to a minion and give it plus two Attack. 
+313,Sorcerer's Apprentice,Your spells cost one less.
+314,Snipe,"Secret: After your opponent plays a minion, deal four spell damage to it. "
+315,Explosive Trap,"Secret: When your hero is attacked, deal two spell damage to all enemies. "
+316,Freezing Trap,"Secret: When an enemy minion attacks, return it to its owner's hand. It costs two more."
+317,Kirin Tor Mage,Battlecry: The next Secret you play this turn costs zero.
+318,Edwin VanCleef,Combo: Gain plus two attack plus two health for each other card you've played this turn.
+319,Illidan Stormrage,"Whenever you play a card, summon a Flame of Azzinoth with two attack and one health."
+320,Mana Wraith,ALL minions cost one more.
+321,Deadly Shot,Destroy a random enemy minion.
+322,Equality,Change the Health of ALL minions to one.
+323,Circle of Healing,Restore four Health to ALL minions.
+324,Temple Enforcer,Battlecry: Give a friendly minion plus three Health.
+325,Holy Fire,Deal five spell damage. Restore five Health to your hero. 
+326,Shadowform,Your Hero Power becomes 'Deal two damage'. If already in Shadowform: three damage.
+327,Mass Dispel,Silence all enemy minions. Draw a card.
+328,Kidnapper,Combo: Return a minion to its owner's hand.
+329,Al'Akir the Windlord,"Charge, Divine Shield, Taunt, Windfury"
+330,Mana Wyrm,"Whenever you cast a spell, gain plus one Attack."
+331,Master of Disguise,Battlecry: Give a friendly minion Stealth until your next turn.
+332,Hungry Crab,"Battlecry: Destroy a Murloc and gain plus two attack, plus two health."
+333,Bloodsail Raider,Battlecry: Gain Attack equal to the Attack of your weapon.
+334,Knife Juggler,"After you summon a minion, deal one damage to a random enemy."
+335,Wild Pyromancer,"After you cast a spell, deal one damage to all minions."
+336,Doomsayer,"At the start of your turn, destroy all minions."
+337,Dread Corsair,Taunt. Costs one less per Attack of your weapon.
+338,Faerie Dragon,Can't be targeted by spells or Hero Powers.
+339,Captain Greenskin,Battlecry: Give your weapon plus one attack and plus one health.
+340,Bloodsail Corsair,Battlecry: Deal one damage to your opponent's weapon.
+341,Violet Teacher,"Whenever you cast a spell, summon a Violet Apprentice with one attack and one health."
+342,Southsea Captain,Your other Pirates have  plus one attack and plus one health.
+343,Millhouse Manastorm,Battlecry: Enemy spells cost zero next turn.
+344,Deathwing,Battlecry: Destroy all other minions and discard your hand.
+345,Commanding Shout,Your minions can't be reduced below one Health this turn. Draw a card.
+346,Master Swordsmith,"At the end of your turn, give another random friendly minion plus one Attack."
+347,Gruul,"At the end of each turn, gain plus one attack and plus one health."
+348,Hogger,"At the end of your turn, summon a Gnoll with two attack, two health and Taunt."
+349,Stampeding Kodo,Battlecry: Destroy a random enemy minion with two or less Attack.
+350,Flesheating Ghoul,"Whenever a minion dies, gain plus one Attack."
+351,Spellbender,"Secret: When an enemy casts a spell on a minion, summon a minion with one attack and three health as the new target."
+352,Ice Lance,"Freeze a character. If it was already Frozen, deal four spell damage instead. "
+353,Mind Blast,Deal five spell damage to the enemy hero. 
+354,Sylvanas Windrunner,Deathrattle: Take control of a random enemy minion.
+355,Coldlight Oracle,Battlecry: Each player draws two cards.
+356,Old Murk-Eye,Charge. Has plus one Attack for each other Murloc on the battlefield.
+357,Conceal,Give your minions Stealth until your next turn.
+358,Azure Drake,Spell Damage  plus one. Battlecry: Draw a card.
+359,Ice Block,"Secret: When your hero takes fatal damage, prevent it and become Immune this turn."
+360,Ragnaros the Firelord,"Can't attack. At the end of your turn, deal eight damage to a random enemy."
+361,Doomguard,Charge. Battlecry: Discard two random cards.
+362,Power Overwhelming,"Give a friendly minion  plus four attack and plus four health until end of turn. Then, it dies. Horribly."
+363,Divine Favor,Draw cards until you have as many in hand as your opponent.
+364,Molten Giant,Costs one less for each damage your hero has taken.
+365,Vanish,Return all minions to their owner's hand.
+366,Bananas,Give a minion plus one attack and plus one health.
+367,Silver Hand Recruit,
+368,Spirit Wolf,Taunt.
+369,Whelp,
+370,Baine Bloodhoof,
+371,Hound,Charge.
+372,Wrath of Air Totem,Spell damage plus one.
+373,Misha,Taunt.
+374,Searing Totem,
+375,Stoneclaw Totem,Taunt.
+376,Healing Totem,"At the end of your turn, restore one health to all friendly minions."
+377,Leokk,Your other minions have plus one attack.
+378,Totemic Call,Summon a random totem.
+379,Life Tap,Draw a card and take two damage.
+380,Steady Shot,Deal two damage to the enemy hero.
+381,Reinforce,Summnon a Silver Hand Recruit with one attack and one health.
+382,Fireblast,Deal one damage.
+383,Armor Up!,Gain two armor.
+384,Lesser Heal,Restore two health.
+385,Dagger Mastery,Equip a weapon with one attack and two durability.
+386,Huffer,Charge.
+387,Damaged Golem,
+388,The Coin,Gain one mana.
+389,Wicked Knife,
+390,Alleycat,Battlecry: Summon a cat with one attack and one health.
+391,Bear Trap,"Secret: After your hero is attacked, summon a bear with three attack, three health and taunt."
+392,Quick Shot,"Deal three damage. If your hand is empty, draw a card."
+393,Cloaked Huntress,Your secrets cost zero.
+394,Secretkeeper,"Whenever a secret is played, gain plus one attack and plus one health."
+395,Tabbycat,
+396,Snake,
+397,Bear,Taunt
+398,Hyenas,
+399,Imp,
+400,Devilsaur,
+401,Squire,
+402,Flame of Azzinoth,
+403,Boar,
+404,Blood Fury,
+405,INFERNO!,Summon an Infernal with six attack and six health.
+406,Mechanical Dragonling,
+407,Battle Axe,
+408,Murloc Scout,
+409,Gnoll,Taunt.
+410,Violet Apprentice,
+411,Dream,Return a minion to its owner's hand.
+412,Finkle Einhorn,
+413,Mind Spike,Deal two spell damage.
+414,Squirrel,
+415,Defias Bandit,
+416,Sheep,
+417,Ysera Awakens,Deal five spell damage to all characters except Ysera.
+418,Nightmare,"This minion has plus five attack and plus five health. At the start of your next turn, destroy it."
+419,Emerald Drake,
+420,Laughing Sister,Can't be targeted by spells or hero powers.
+421,Hyena,
+422,Ashbringer,
+423,Frog,Taunt.
+424,Heavy Axe,
+425,Mind Shatter,Deal three spell damage.
+426,Infernal,
+427,Defender,
+428,Savage Roar,Give your characters plus two attack this turn.
+429,Force of Nature,"Summon three minions with two attack, two health and charge that die at the end of the turn."
+430,Shapeshift,Plus one attck this turn and gain one armor.
+431,Keeper of the Grove,Choose one: Deal two damage; or silence a minion.
+432,Ancient of Lore,Choose one: Draw two cards; or restore five health.
+433,Wrath,Choose one: Deal three spell damage to a minion; or deal one spell damage and draw a card.
+434,Power of the Wild,Choose one: Give your minions plus one attack and plus one health; or summon a minion with three attack and two health.
+435,Druid of the Claw,Choose one: Charge; or gain plus two health and Taunt.
+436,Panther,
+437,Treant,
+438,Ancient of War,Choose one: plus five attack; or plus five health and Taunt.
+439,Innervate,Gain one mana crystals this turn only.
+440,Wild Growth,Gain an empty mana crystal.
+441,Swipe,Deal four spell damage to an enemy and one spell damage to all other enemies.
+442,Cenarius,"Choose one: Give your other minions plus two attack and plus two health; or summon two minions with two attack, two health and Taunt."
+443,Excess Mana,Draw a card.
+444,Starfall,"Choose one: Deal five spell damage to a minion; or two spell damage to all enemy minions."
+445,Naturalize,"Destroy a minion. Your opponent draws two cards."
+446,Bite,Give your hero plus four attack this turn. Gain four Armor.
+447,Gift of the Wild,"Give your minions plus two attack, plus two health and taunt."
+448,Crystal Power,Choose one: Deal two spell damage to a minion; or restore five health.
+449,Barkskin,Give a minion plus three health. Gain three armor.
+450,Gnash,Give your hero plus three attack this turn. Gain 3 Armor.
+451,Headcrack,Deal two spell damage to the enemy hero. Combo: Return this to your hand next turn.
+452,Perdition's Blade,Battlecry: Deal one damage. Combo: Deal two damage instead.
+453,Dark Iron Skulker,Battlecry: Deal two damage to all undamaged enemy minions.
+454,Walk the Plank,Destroy an undamaged minion.
+455,Rampage,Give a damaged minion plus three attack and plus three health.
+456,Revenge,"Deal one spell damage to all minions. If you have twelve or less health, deal three spell damage instead."
+457,Devastate,Deal four spell damage to a damaged minion.
+458,Iron Hide,Gain five Armor.
+459,Siphon Soul,Destroy a minion. Restore three health to your hero.
+460,Twisting Nether,Destroy all minions.
+461,Spirit Bomb,Deal four spell damage to a minion and your hero.
+462,Kobold Librarian,Battlecry: Draw a card. Deal two damage to your hero.
+463,Vulgar Homunculus,"Taunt. Battlecry: Deal two damage to your hero."
+464,Quick Shot,"Deal three spell damage. If your hand is empty, draw a card."
+465,Flanking Strike,Deal three spell damage to a minion. Summon a wolf with three attack and three health.
+466,Purify,Silence a friendly minion. Draw a card.
+467,Regenerate,Restore three health.
+468,Power Word: Tentacles,Give a minion plus two attack and plus six health.
+469,Darkshire Alchemist,Battlecry: Restore five Health.
+470,Keeper of Uldaman,Battlecry: Set a minion's attack and health to three.
+471,Flash of Light,"Restore four Health. Draw a card."
+472,Shrink Ray,"Set the Attack and Health of all minions to one."
+473,Dark Conviction,Set a minion's attack and health to three.
+474,Dinosize,Set a minion's attack and health to ten.
+475,Divine Strength,Give a minion plus one attack and plus two health.
+476,Shooting Star,Deal one spell damage to a minion and the minions next to it.
+477,Research Project,Each player draws two cards.
+478,Cinderstorm,Deal five spell damage randomly split among all enemies.
+479,Beakered Lightning,Deal one damage to all minions. Overload: two.
+480,Crushing Hand,Deal eight spell damage to a minion. Overload: three.
+481,Hot Spring Guardian,"Taunt. Battlecry: Restore three health."
+482,Wolf,
